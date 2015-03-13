@@ -1,1 +1,0 @@
-This is my process about learning Python
